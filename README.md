@@ -4,10 +4,10 @@
 
 ## About me
 
-I am a programmer, graphic designs, game developer, cool friend and the sole developer of Midelight.
-I love network things like servers and cool data. ;p
-I often take the position as leader and can manage different communities very well.
-I also have quite the experience, I started making After Effects animations when I was 10
+I am a programmer, graphic designs, game developer, cool friend and the sole developer of Midelight.  
+I love network things like servers and cool data. ;p  
+I often take the position as leader and can manage different communities very well.  
+I also have quite the experience, I started making After Effects animations when I was 10  
 then when I was 13 years old I created [WriteNote](https://midelight.net/WriteNote). Which today I have expanded and worked a lot on.
 
 ## I’m looking to collaborate on

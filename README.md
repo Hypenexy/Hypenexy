@@ -10,7 +10,7 @@ I often take the position as leader and can manage different communities very we
 I also have quite the experience, I started making After Effects animations when I was 10  
 then when I was 13 years old I created [WriteNote](https://midelight.net/WriteNote). Which today I have expanded and worked a lot on.
 
-## I’m looking to collaborate on
+## I’m looking forward to
 
 Making a video game!
 

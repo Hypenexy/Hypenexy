@@ -4,7 +4,7 @@
 
 ## About me
 
-I am a programmer, graphic designs, game developer, cool friend and the sole developer of Midelight.  
+I am a programmer, graphic designer, game developer, cool friend and the sole developer of Midelight.  
 I love network things like servers and cool data. ;p  
 I often take the position as leader and can manage different communities very well.  
 I also have quite the experience, I started making After Effects animations when I was 10  

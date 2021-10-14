@@ -12,6 +12,7 @@ then when I was 13 years old I created [WriteNote](https://midelight.net/WriteNo
 
 ## I’m looking forward to
 
+Finishing all of my projects.
 Making a video game!
 
 ## 💖 Support my projects

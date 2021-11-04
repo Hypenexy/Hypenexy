@@ -27,7 +27,7 @@ few things that I cannot do without you. If you like my projects please consider
 
 ## 📫 Contact
 
-Discord: Hypenexy#2984 
+Discord: Hypenexy#2984  
 Midelight: [Feedback](https://midelight.net/feedback)  
 Youtube: [Hypenexy](https://www.youtube.com/channel/UCx8ZxGX6wXorJVXlgnUFJLQ)  
 Twitch: [Hypenexy](https://twitch.tv/Hypenexy)  

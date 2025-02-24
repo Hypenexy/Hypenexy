@@ -30,7 +30,7 @@ few things that I cannot do without you. If you like my projects please consider
 
 Discord: Hypenexy  
 Midelight: [Contact](https://midelight.net/#contact)  
+Instagram: [Hypenexy](https://www.instagram.com/goshohot)  
 Youtube: [Hypenexy](https://www.youtube.com/channel/UCx8ZxGX6wXorJVXlgnUFJLQ)  
 Twitch: [Hypenexy](https://twitch.tv/Hypenexy)  
-Instagram: [Hypenexy](https://instagram.com/Hypenexy)  
 Twitter: [Hypenexy](https://twitter.com/hypenexy)  

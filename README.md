@@ -24,10 +24,11 @@ few things that I cannot do without you. If you like my projects please consider
 - Helping me directly by reporting issues and suggesting fixes.
 - Giving me ideas on how to improve and make my services better!
 - [Donating to finance my projects and make even bigger ones in the future!](https://www.paypal.me/Hypenexy)
+- Getting me a job
 
 ## 📫 Contact
 
-Discord: Hypenexy#2984  
+Discord: Hypenexy  
 Midelight: [Contact](https://midelight.net/#contact)  
 Youtube: [Hypenexy](https://www.youtube.com/channel/UCx8ZxGX6wXorJVXlgnUFJLQ)  
 Twitch: [Hypenexy](https://twitch.tv/Hypenexy)  

@@ -1,36 +1,50 @@
-## Welcome to Hypenexy's GitHub profile!
-[![Hypenexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hypenexy&show_icons=true&theme=midnight-purple)](https://midelight.net)
-[![Hypenexy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Hypenexy&show_icons=true&theme=midnight-purple&layout=compact)](https://midelight.net)
+<div align="center">  
+  
+## [Georgi Murlev](https://murlev.com)
+**CS Student | Programmer | Homelab Enthusiast | Designer | Music Artist**
 
-## About me
+</div>
 
-I am a programmer, graphic designer, game developer, cool friend and the sole developer of Midelight.  
-I love network things like servers and cool data. ;p  
-I often take the position as leader and can manage different communities very well.  
-I also have quite the experience, I started making After Effects animations when I was 10  
-then when I was 13 years old I created [WriteNote](https://midelight.net/WriteNote). Which today I have expanded and worked a lot on.
+I am a 3rd-year Computer Science and Technologies university student based in Plovdiv - Bulgaria. I thrive at the intersection of software, hardware, and the creative arts. I love building things from scratch, whether that means writing clean code, building-racking servers or computers, designing interfaces, producing music, or tinkering with DIY engineering projects. 
 
-## I’m looking forward to
+With a strong foundation in math, physics and creative arts, I enjoy taking a multidisciplinary approach to problem-solving. I often look at a problem with multiple angles.
 
-Finishing all of my projects.  
-Making a video game!
+---
 
-## 💖 Support my projects
+### 🔭 What I Do
 
-I love what I'm doing, and I would love it if you could help me out! There are a
-few things that I cannot do without you. If you like my projects please consider:
+* **Software Engineering:** Building applications, exploring algorithms, and solving complex CS problems. I take [different](https://github.com/Hypenexy/Ixeo) approaches [depending](https://github.com/Hypenexy/WriteNote) on usage and requirments.
+* **Homelabbing & Networking:** Architecting my own infrastructure, configuring servers, and managing networks from the ground up. I design my own cloud and maintain all my apps on it.
+* **DIY Engineering:** Combining physics, math, and hardware to bring physical projects to life. [CarHUD](https://github.com/Hypenexy/CarHUD) is an amazing working example of physics and microcontrollers.
+* **Design & Audio:** Creating digital designs and producing music when I step away from the terminal. I am a [singer](https://open.spotify.com/album/4uxGQV5OHvarok8PaJ2UHa), guitarist, pianist and produce then publish - my own nu-metal and electronic music.
 
-- Sharing my projects with people who might find them useful!
-- Helping me directly by reporting issues and suggesting fixes.
-- Giving me ideas on how to improve and make my services better!
-- [Donating to finance my projects and make even bigger ones in the future!](https://www.paypal.me/Hypenexy)
-- Getting me a job
+---
 
-## 📫 Contact
+### 🛠️ Tech Stack & Tools
 
-Discord: Hypenexy  
-Midelight: [Contact](https://midelight.net/#contact)  
-Instagram: [Hypenexy](https://www.instagram.com/goshohot)  
-Youtube: [Hypenexy](https://www.youtube.com/channel/UCx8ZxGX6wXorJVXlgnUFJLQ)  
-Twitch: [Hypenexy](https://twitch.tv/Hypenexy)  
-Twitter: [Hypenexy](https://twitter.com/hypenexy)  
+* **Programming Languages:** `Rust` • `JavaScript` • `C++` • `Java` • `Python` • `C#` • `PHP` • `C`
+* **Libraries & Frameworks:** `NodeJS` • `React` • `Laravel` • `Vue` • `TypeScript` • `ElectronJS`
+* **Networking & Infrastructure:** `Linux` • `Proxmox` • `Docker` • `Kubernetes` • `Cisco` • `Enterprise Hardware`
+* **Hardware & Engineering:** `Arduino` • `Raspberry Pi` • `ESP32` • `CAD` • `Soldering` • `LED` • `Radio GPS`
+* **Creative:** `FL Studio` • `Figma` • `Adobe Creative Suite` • `MS Paint`
+
+---
+
+### 🌱 Currently Exploring
+
+* Advanced networking protocols and expanding home server architecture.
+* Bridging the gap between software logic and physical DIY engineering.
+* Fixing the clouds' mainstream problem - efficacy.
+
+---
+
+### 📫 Let's Connect
+
+* **Portfolio & Blog:** [murlev.com](https://murlev.com)
+* **Email:** [georgi@murlev.com](georgi@murlev.com)
+* **Music:** [Hypenexy](https://open.spotify.com/artist/7wt2nzSSeUl2h1V1Uglk2u)
+* **LinkedIn:** [Georgi Murlev](https://www.linkedin.com/in/georgi-murlev-41345432b/)
+
+
+
+> *"Physics gives us the key, it's up to us whether we choose to use it for good or bad."*

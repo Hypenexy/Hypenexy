@@ -30,14 +30,6 @@ With a strong foundation in math, physics and creative arts, I enjoy taking a mu
 
 ---
 
-### 🌱 Currently Exploring
-
-* Advanced networking protocols and expanding home server architecture.
-* Bridging the gap between software logic and physical DIY engineering.
-* Fixing the clouds' mainstream problem - efficacy.
-
----
-
 ### 📫 Let's Connect
 
 * **Portfolio & Blog:** [murlev.com](https://murlev.com)
